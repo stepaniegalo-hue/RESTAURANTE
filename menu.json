@@ -1,0 +1,58 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Hamburguesa Clásica",
+      "precio": 8.99,
+      "categoria": "Comidas"
+    },
+    {
+      "id": 2,
+      "nombre": "Pizza Margherita",
+      "precio": 12.50,
+      "categoria": "Comidas"
+    },
+    {
+      "id": 3,
+      "nombre": "Ensalada Cesar",
+      "precio": 9.50,
+      "categoria": "Comidas"
+    },
+    {
+      "id": 4,
+      "nombre": "Coca Cola",
+      "precio": 2.50,
+      "categoria": "Bebidas"
+    },
+    {
+      "id": 5,
+      "nombre": "Jugo Natural",
+      "precio": 3.99,
+      "categoria": "Bebidas"
+    },
+    {
+      "id": 6,
+      "nombre": "Café",
+      "precio": 2.00,
+      "categoria": "Bebidas"
+    },
+    {
+      "id": 7,
+      "nombre": "Cheesecake",
+      "precio": 5.99,
+      "categoria": "Postres"
+    },
+    {
+      "id": 8,
+      "nombre": "Helado Chocolate",
+      "precio": 4.50,
+      "categoria": "Postres"
+    },
+    {
+      "id": 9,
+      "nombre": "Tiramisú",
+      "precio": 6.99,
+      "categoria": "Postres"
+    }
+  ]
+}
